@@ -1,2 +1,2 @@
-# CommunityDocumentation
-Documentation for the community
+# Media and Documentation
+Documentation and other content for the community
